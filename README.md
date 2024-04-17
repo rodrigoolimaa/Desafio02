@@ -7,7 +7,7 @@
 Nesse desafio, você deverá recriar uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
 
 <p align="center">
-  <img alt="projeto 02" src="./github/preview.png" width="100%">
+  <img alt="projeto 02" src="./imagens/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

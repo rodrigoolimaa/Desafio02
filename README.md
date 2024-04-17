@@ -20,5 +20,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 <p align="center">
-    Feito com ♥ by Rocketseat
+    Feito com ♥ by Rocketseat 
 </p>
